@@ -7,11 +7,6 @@ This project recommends suitable crops based on real-time weather and historical
 2. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
-3. [Project Structure](#project-structure)
-4. [Usage](#usage)
-5. [Dataset](#dataset)
-6. [License](#license)
-7. [Acknowledgments](#acknowledgments)
 
 ---
 
